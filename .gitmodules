@@ -1,4 +1,4 @@
 [submodule "modules/migrate-modules"]
-  path = modules/migrate-modules
-  url = git@github.com:serialsito/migrate-modules.git
+	path = modules/migrate-modules
+	url = git@github.com:serialsito/migrate-modules2.git
 
